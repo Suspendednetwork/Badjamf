@@ -13,5 +13,6 @@ cons: VPNS are blocked by jamf or Wifi filters
 # Use a proxy from [Titanium network](https://github.com/titaniumnetwork-dev)
 
 Cons: are super slow and some sites break
+# Somewhat related to jamf
 
 # tested on MACBOOK M2 WITH RECOVERY LOCK
