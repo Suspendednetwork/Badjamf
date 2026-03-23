@@ -8,6 +8,9 @@ BadJamf is a repo containing ways to circumvent Jamf
 
 [NFB](https://github.com/Suspendednetwork/Badjamf/blob/main/Methods/NFB.md)
 
+# Jamf behaviours
+
+
 # Contact Me
 
 ## leonel@leonelh.me
