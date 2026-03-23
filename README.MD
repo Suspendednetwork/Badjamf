@@ -10,7 +10,7 @@ BadJamf is a repo containing ways to circumvent Jamf
 
 # Jamf behaviours
 
-(Jamf App behaviours)[https://github.com/Suspendednetwork/Badjamf/blob/main/behaviours/jamfappblocking.md]
+[Jamf App behaviours](https://github.com/Suspendednetwork/Badjamf/blob/main/behaviours/jamfappblocking.md)
 
 # Contact Me
 
